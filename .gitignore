@@ -1,0 +1,10 @@
+# Environments
+.venv/
+__pycache__/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# API Keys and Secrets
+.env
